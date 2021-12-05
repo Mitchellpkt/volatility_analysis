@@ -1,2 +1,2 @@
 # volatility_analysis
-Quantifying impaact of exchange rate volatility for Monero-denominated delayed payouts
+Quantifying impact of exchange rate volatility for Monero-denominated delayed payouts
